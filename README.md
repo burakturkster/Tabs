@@ -3,7 +3,7 @@
 ### Aşağıdaki sayfada tabs örneği bulunmaktadır.
 ### https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_tabs 
 
-### tabs adında bir klasör oluşturun ve bağlantıdaki kodları sayfa1.html dosyası içine kopyalayın.
+#### Tabs adında bir klasör oluşturun ve bağlantıdaki kodları sayfa1.html dosyası içine kopyalayın.
 
 ### Görev:
 #### h3 ve p içindeki metinleri kaldırın.
